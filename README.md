@@ -2,7 +2,7 @@
 
 myShoppy is a mobile-first e-commerce application developed using React Native and Expo. The application allows users to browse household products, search and filter products, view product details, manage a shopping cart, and complete a simple checkout process.
 
-The project was developed as part of an application development assignment with emphasis on clean UI, reusable components, modular architecture, and state management.
+The project was developed as part of an application development on clean UI, reusable components, modular architecture, and state management.
 
 ---
 
